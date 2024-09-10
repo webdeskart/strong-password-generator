@@ -1,7 +1,7 @@
 # Strong Password Generator
 
-This is a simple and effective web-based Strong Password Generator. The tool generates a secure password and allows you to copy it with a single click.
-Check Demo: https://www.provishal.com/strong-password-generator
+- This is a simple and effective web-based Strong Password Generator. The tool generates a secure password and allows you to copy it with a single click.
+- Check Demo: https://www.provishal.com/strong-password-generator
 
 ## Features
 
